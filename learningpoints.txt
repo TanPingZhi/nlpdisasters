@@ -1,0 +1,3 @@
+larger max length not necessarily useful as the padding probably distracts the attention
+albert-base-v2 is inferior
+albert-large-v2 too much memory required
